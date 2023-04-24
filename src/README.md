@@ -32,7 +32,7 @@ The following instructions are for running landver with the ECMWFcode4Earth chal
             STEP =      ["00","00"]
             DOMAIN =    ["G","G"]
             GRID =      ["av","av"]
-            EXPNAME =  ["ERA5","hyfs"]
+            EXPNAME =   ["ERA5","hyfs"]
 
 
     1.3 Check the default parameters in the file `Common functions.py`, Class LDAS_config. Change the parameters, if preferred. 
